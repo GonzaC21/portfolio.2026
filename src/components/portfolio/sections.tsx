@@ -651,7 +651,7 @@ export function ContactSection() {
             <ContactRow
               icon={Github}
               label="GitHub"
-              value="@gonzalo-callejas"
+              value={`@${profile.githubHandle}`}
               href={profile.github}
             />
 

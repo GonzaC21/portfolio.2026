@@ -15,8 +15,9 @@ export const profile = {
   linkedinHandle: "gonzalo-callejas-aguero-797735288",
   company: "VerticeDigitals",
   companyUrl: "https://verticedigitals.netlify.app/",
-  github: "https://github.com/",
-  avatar: "/avatar.png",
+  github: "https://github.com/GonzaC21",
+  githubHandle: "GonzaC21",
+  avatar: "/avatar-real.jpg",
   available: true,
   about: [
     "Soy Full Stack Developer con foco en construir aplicaciones web modernas, rápidas y mantenibles. Mi stack principal incluye JavaScript/TypeScript, React, Node.js y bases de datos SQL/NoSQL, complementado con Python para servicios backend.",
